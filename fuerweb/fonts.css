@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Futura T OT";
+   src: url("fonts/FuturaTOT-BoldObli.woff") format("woff"), url("fonts/FuturaTOT-BoldObli.eot") format("embedded-opentype"), url("fonts/FuturaTOT-BoldObli.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura T OT";
+   src: url("fonts/FuturaTOT-Bold.woff") format("woff"), url("fonts/FuturaTOT-Bold.eot") format("embedded-opentype"), url("fonts/FuturaTOT-Bold.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura T OT";
+   src: url("fonts/FuturaTOT-BookObli.woff") format("woff"), url("fonts/FuturaTOT-BookObli.eot") format("embedded-opentype"), url("fonts/FuturaTOT-BookObli.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura T OT";
+   src: url("fonts/FuturaTOT-Book.woff") format("woff"), url("fonts/FuturaTOT-Book.eot") format("embedded-opentype"), url("fonts/FuturaTOT-Book.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
